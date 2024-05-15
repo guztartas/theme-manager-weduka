@@ -1,0 +1,3 @@
+- Pode ser rodado num live server apenas com a extensão do VsCode.
+- Lembrar de rodar "sass --watch src/scss:src/css" para o sass compilar corretamente.
+- O teste unitário de uma função pode ser acessado através do index.html dentro da pasta test.
